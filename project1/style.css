@@ -1,0 +1,16 @@
+.row {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.cols {
+    border: 1px solid #d2d2d2;
+    border-radius: 1rem;
+    padding: 10px 20px;
+    flex: 1 1 calc(28.333%);
+}
+h1 {
+    text-align: center;
+}
